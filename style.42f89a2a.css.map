@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,MACE,kBACF,CAEA,qBACE,kBACF","file":"style.42f89a2a.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.info {\n  margin-bottom: 20px;\n}\n\ndiv:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
